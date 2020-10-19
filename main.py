@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import os
 import time
 
@@ -148,3 +149,5 @@ while True:
     else:
         print("invalid input. please try again.")
         #put this at else in case someone exits by accident 
+=======
+>>>>>>> parent of 621a94f... added new things
